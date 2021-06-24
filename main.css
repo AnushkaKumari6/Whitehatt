@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+.profile {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+#welcome {
+    height: 800px;
+    width: 100%;
+    position: absolute;
+    background: linear-gradient(#573182,#910707);
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom:0;
+}
+h1 {
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: 300;
+    
+}
+#Amy{
+    font-size: 50px;
+    line-height: 1.2;
+    font-family: 'Cinzel Decorative', cursive;
+}
+h2{
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: 'Montserrat', sans-serif; 
+}
